@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\testv5\testv5\bin\Debug\testv5.exe.config
+C:\Users\legen\source\repos\testv5\testv5\bin\Debug\testv5.exe
+C:\Users\legen\source\repos\testv5\testv5\bin\Debug\testv5.pdb
+C:\Users\legen\source\repos\testv5\testv5\obj\Debug\testv5.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\testv5\testv5\obj\Debug\testv5.Form1.resources
+C:\Users\legen\source\repos\testv5\testv5\obj\Debug\testv5.Properties.Resources.resources
+C:\Users\legen\source\repos\testv5\testv5\obj\Debug\testv5.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\testv5\testv5\obj\Debug\testv5.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\testv5\testv5\obj\Debug\testv5.exe
+C:\Users\legen\source\repos\testv5\testv5\obj\Debug\testv5.pdb
